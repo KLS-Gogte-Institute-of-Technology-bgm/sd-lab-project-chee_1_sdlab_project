@@ -48,12 +48,8 @@ Check Account:
 This use case is used to check account details
 
 #### Non-Functional Requirements
--	Safety Requirements
-The database may get crashed at any certain time due to virus or operating 
-system failure. Therefore it is required to take the database backup.
 -	Security Requirements
-We are going to develop a secured database for the university .There are 
-different categories of users namely teaching staff, administrator, library 
+There are different categories of users namely teaching staff, administrator, library 
 staff ,students etc., Depending upon the category of user the access rights are 
 decided. It means if the user is an administrator then he can be able to 
 modify the data, delete, append etc., all other users other than library staff 
