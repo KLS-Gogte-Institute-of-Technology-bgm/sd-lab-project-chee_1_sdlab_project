@@ -1,51 +1,8 @@
 # SRS Document
 ## Library Management System
 #### Functional Requirements
-The Librarian does the following function(s):-
-- Add Article
- New entries must be entered in database
-- Update Article
-Any changes in articles should be updated in case of update
-- Delete Article
-Wrong/Expiry/Un-usable entry must be removed from system
-- Inquiry Members
-Inquiry all current enrolled members to view their details
-- Inquiry waiting for approvals
-Librarian will generates all newly application which is in waiting list
-- Reserve Article
-This use case is used to reserve any book with the name of librarian, it can 
-be pledged
-- Set user Permission
-From this user case Librarian can give permission categorically, also 
-enabling/disabling of user permission can be set through this use case.
-MEMBER does the following function(s):-
-- Authentication
-User must authenticated before accessing system
-- Search Article
-User can search any article
-- Request Article
-After successful searching member mark this book as requested article
-- Check Account
-This use case is used to check account details
-- Check out Article
-To issue any article must be checked out
-- Check In article
-After receiving any article system will reenter article by Checking
-- Inquiry waiting for approvals
-Librarian will generates all newly application which is in waiting list
-- Reserve Article
-This use case is used to reserve any book with the name of librarian, it can 
-be pledged
-- Set user Permission
-From this user case Librarian can give permission categorically, also 
-enabling/disabling of user permission can be set through this use case.
-- MEMBER does the following function(s):-
- Authentication:
-User must authenticated before accessing system
-Request Article:
-After successful searching member mark this book as requested article
-Check Account:
-This use case is used to check account details
+- The Librarian does the following function(s):- Add, Update, Delete, Search Articles from the database, Set user Permission.
+- User does the following function(s):-Authentication, Request Article, Check Account, Check out and Check In Article.
 
 #### Non-Functional Requirements
 -	Security Requirements
