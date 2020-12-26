@@ -10,13 +10,6 @@ Any changes in articles should be updated in case of update
 Wrong/Expiry/Un-usable entry must be removed from system
 - Inquiry Members
 Inquiry all current enrolled members to view their details
-- Inquiry Issuance
-Inquiry of all database articles
-
-- Check out Article
-To issue any article must be checked out
-- Check In article
-After receiving any article system will reenter article by Checking
 - Inquiry waiting for approvals
 Librarian will generates all newly application which is in waiting list
 - Reserve Article
@@ -46,17 +39,15 @@ be pledged
 - Set user Permission
 From this user case Librarian can give permission categorically, also 
 enabling/disabling of user permission can be set through this use case.
-MEMBER does the following function(s):-
-- Authentication
+- MEMBER does the following function(s):-
+ Authentication
 User must authenticated before accessing system
-- Search Article
-User can search any article
-- Request Article
+Request Article
 After successful searching member mark this book as requested article
-- Check Account
+Check Account
 This use case is used to check account details
 
-#### Non-Functional Requirement
+#### Non-Functional Requirements
 -	Safety Requirements
 The database may get crashed at any certain time due to virus or operating 
 system failure. Therefore it is required to take the database backup.
