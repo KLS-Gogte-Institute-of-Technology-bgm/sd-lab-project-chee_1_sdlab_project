@@ -40,11 +40,11 @@ be pledged
 From this user case Librarian can give permission categorically, also 
 enabling/disabling of user permission can be set through this use case.
 - MEMBER does the following function(s):-
- Authentication
+ Authentication:
 User must authenticated before accessing system
-Request Article
+Request Article:
 After successful searching member mark this book as requested article
-Check Account
+Check Account:
 This use case is used to check account details
 
 #### Non-Functional Requirements
