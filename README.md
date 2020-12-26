@@ -22,7 +22,7 @@ This is the project file which is used to return a book to the library
 <br>
 ## Python Dependencies
 •	tkinter<br>
-•	pillow
+•	pillow<br>
 •	pymsql
 <br>
 ## Authors
