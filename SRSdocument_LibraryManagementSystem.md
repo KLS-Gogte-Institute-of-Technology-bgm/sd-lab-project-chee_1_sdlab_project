@@ -1,4 +1,4 @@
-# SRS DOCUMENT
+# SRS Document
 ## Library Management System
 #### Functional Requirements
 The Librarian does the following function(s):-
@@ -57,22 +57,22 @@ After successful searching member mark this book as requested article
 This use case is used to check account details
 
 #### Non-Functional Requirement
-•	Safety Requirements
+-	Safety Requirements
 The database may get crashed at any certain time due to virus or operating 
 system failure. Therefore it is required to take the database backup.
-•	Security Requirements
+-	Security Requirements
 We are going to develop a secured database for the university .There are 
 different categories of users namely teaching staff, administrator, library 
 staff ,students etc., Depending upon the category of user the access rights are 
 decided. It means if the user is an administrator then he can be able to 
 modify the data, delete, append etc., all other users other than library staff 
 only have the rights to retrieve the information about database.
-•	Software Quality Attributes
+-	Software Quality Attributes
 The Quality of the database is maintained in such a way so that it can be 
 very user friendly to all the users of the database
-•	Hardware Constraints
+-	Hardware Constraints
 The system requires a database in order to store persistent data. The database 
 should have backup capabilities.
-•	Software Constraints
+-	Software Constraints
 The development of the system will be constrained by the availability of 
 required software such as database and development tools.
