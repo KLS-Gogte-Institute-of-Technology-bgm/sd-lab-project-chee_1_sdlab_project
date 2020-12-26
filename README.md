@@ -17,7 +17,7 @@ This is the project file which is used to issue a book from library
 This is the project file which is used to return a book to the library
 <br>
 ## Built with
-•	Python
+•	Python<br>
 • MySQL
 <br>
 ## Python Dependencies
