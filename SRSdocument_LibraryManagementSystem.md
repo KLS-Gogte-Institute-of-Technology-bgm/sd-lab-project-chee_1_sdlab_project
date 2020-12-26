@@ -1,60 +1,62 @@
-# Functional Requirements
+# SRS DOCUMENT
+## Library Management System
+#### Functional Requirements
 The Librarian does the following function(s):-
-1. Add Article
+- Add Article
  New entries must be entered in database
-2. Update Article
+- Update Article
 Any changes in articles should be updated in case of update
-3. Delete Article
+- Delete Article
 Wrong/Expiry/Un-usable entry must be removed from system
-4. Inquiry Members
+- Inquiry Members
 Inquiry all current enrolled members to view their details
-5. Inquiry Issuance
+- Inquiry Issuance
 Inquiry of all database articles
 
-6. Check out Article
+- Check out Article
 To issue any article must be checked out
-7. Check In article
+- Check In article
 After receiving any article system will reenter article by Checking
-8. Inquiry waiting for approvals
+- Inquiry waiting for approvals
 Librarian will generates all newly application which is in waiting list
-9. Reserve Article
+- Reserve Article
 This use case is used to reserve any book with the name of librarian, it can 
 be pledged
-10. Set user Permission
+- Set user Permission
 From this user case Librarian can give permission categorically, also 
 enabling/disabling of user permission can be set through this use case.
 MEMBER does the following function(s):-
-1. Authentication
+- Authentication
 User must authenticated before accessing system
-2. Search Article
+- Search Article
 User can search any article
-3. Request Article
+- Request Article
 After successful searching member mark this book as requested article
-4. Check Account
+- Check Account
 This use case is used to check account details
-6. Check out Article
+- Check out Article
 To issue any article must be checked out
-7. Check In article
+- Check In article
 After receiving any article system will reenter article by Checking
-8. Inquiry waiting for approvals
+- Inquiry waiting for approvals
 Librarian will generates all newly application which is in waiting list
-9. Reserve Article
+- Reserve Article
 This use case is used to reserve any book with the name of librarian, it can 
 be pledged
-10. Set user Permission
+- Set user Permission
 From this user case Librarian can give permission categorically, also 
 enabling/disabling of user permission can be set through this use case.
 MEMBER does the following function(s):-
-1. Authentication
+- Authentication
 User must authenticated before accessing system
-2. Search Article
+- Search Article
 User can search any article
-3. Request Article
+- Request Article
 After successful searching member mark this book as requested article
-4. Check Account
+- Check Account
 This use case is used to check account details
 
-# Non-Functional Requirement
+#### Non-Functional Requirement
 •	Safety Requirements
 The database may get crashed at any certain time due to virus or operating 
 system failure. Therefore it is required to take the database backup.
