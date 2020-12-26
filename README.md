@@ -20,15 +20,16 @@ This is the project file which is used to return a book to the library
 •	Python
 <br>
 ## Python Dependencies
-•	tkinter
-•	pillow
+•	tkinter<br>
+•	pillow<br>
 •	pymsql
 <br>
 ## Authors
-•	Nikita Chavan
-•	Fatma Mulla 
-•	Kamakshi Kajmani 
-•	Mridula Patil
-•	Sayli Divekar
+•	Nikita Chavan<br>
+•	Fatma Mulla <br>
+•	Kamakshi Kajmani <br>
+•	Mridula Patil<br>
+•	Sayli Divekar<br>
 ## Reference
+• Kevin GoldSmith
 
